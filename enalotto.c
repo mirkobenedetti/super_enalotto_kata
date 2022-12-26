@@ -44,7 +44,7 @@ void push(int element) {
 	}
 }
 
-bool isNotDuplicated(element) {
+bool isNotDuplicated(int element) {
 	if(numbers.top > 0) {
 		for (i = numbers.top; i > 0; i--) {
 			if (element == numbers.content[i-1]) {
