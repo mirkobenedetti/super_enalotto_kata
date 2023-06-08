@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace it.mirko-benedetti.enalotto
+namespace com.prontobenedict.enalotto
 {
     class Enalotto
     {
