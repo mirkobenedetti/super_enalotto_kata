@@ -1,5 +1,5 @@
 
-package it.mirko-benedetti.enalotto
+package com.prontobenedict.enalotto
 
 import java.util.*
 
